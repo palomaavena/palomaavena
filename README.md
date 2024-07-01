@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @palomaavena
 - 👀 I’m interested in oceanography, remote sensing, GIS, geodata analysis, environment, climate change, python, SQL, R, science.
-- 🌱 I’m currently learning Data Analysis with Python at @reprograma .
+- 🌱 I’m currently learning Data Analysis with Python at (https://github.com/reprograma/).
 - 💞️ I am looking to collaborate on remote sensing and geographic information systems (GIS) projects.
 - 📫 How to reach me (https://www.linkedin.com/in/palomaavena/)
 - 😄 Pronouns:She/Her
