@@ -4,17 +4,20 @@
 - 💞️ I am looking to collaborate on remote sensing and geographic information systems (GIS) projects.
 - 📫 How to reach me (https://www.linkedin.com/in/palomaavena/)
 - 😄 Pronouns:She/Her
-- ⚡ Fun fact: I am passionate about the ocean of data!
+- ⚡ Fun fact: I am passionate about diving the Ocean (of data too)!
 
 
-“ O QUE É SUCESSO?
+> ### "WHAT IS SUCCESS?
 
-Rir muito e com frequência; ganhar o respeito de pessoas inteligentes e o afeto das crianças; merecer a consideração de críticos honestos e suportar a traição de falsos amigos; apreciar a beleza, encontrar o melhor nos outros; deixar o mundo um pouco melhor, seja por uma saudável criança, um canteiro de jardim ou uma redimida condição social; saber que ao menos uma vida respirou mais fácil porque você viveu.
+> Laugh a lot and often; gain the respect of intelligent people and the affection of children;
+> deserve the consideration of honest critics and endure the betrayal of false friends;
+> appreciate beauty, find the best in others;
+> make the world a little better, whether through a healthy child, a garden bed or a redeemed social condition;
+> knowing that at least one life breathed easier because you lived it.
 
-Isto é ter sucesso! “
+> This is what success means!" R.W.E
 
-R.W.E
-
+Doing data analysis for this kind of success!
 
 
 <!---
