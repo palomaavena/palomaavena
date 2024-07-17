@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Data Analysis with Python at (https://github.com/reprograma/).
 - 💞️ I am looking to collaborate on remote sensing and geographic information systems (GIS) projects.
 - 📫 How to reach me (https://www.linkedin.com/in/palomaavena/)
-- 😄 Pronouns:She/Her
-- ⚡ Fun fact: I am passionate about diving the Ocean (of data too)!
+- ⚡ Fun fact: I am passionate about diving at the Ocean (of data too)!
 
 
 > ### "WHAT IS SUCCESS?
@@ -17,7 +16,7 @@
 
 > This is what success means!" R.W.E
 
-- 💞️ Using technology for this kind of success!
+- 😄 Using technology for this kind of success!
 
 
 <!---
