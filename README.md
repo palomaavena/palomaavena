@@ -17,7 +17,7 @@
 
 > This is what success means!" R.W.E
 
-Doing data analysis for this kind of success!
+- 💞️ Using technology for this kind of success!
 
 
 <!---
