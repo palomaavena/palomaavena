@@ -1,4 +1,4 @@
-#Comandos básicos:
+# Comandos básicos:
 
 Fonte: Chatgpt
 
