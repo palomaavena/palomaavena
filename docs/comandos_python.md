@@ -1,6 +1,7 @@
 # Comandos básicos:
 
 Fonte: Chatgpt
+Ps: não testado 
 
 ### 1. **Entrada e Saída**
 ```python
