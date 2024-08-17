@@ -1,9 +1,8 @@
-# Projeto
-
-
+# NOTEBOOK
 
 # Sobre 
 
+Meu caderno de estudos
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -14,7 +13,7 @@
 * [Nome](link)
   
   
-# xxxxxxxx
+# Ferramentas utilizadas
 
 - [x] **xxxxxxxx**
 - [x] **xxxxxxxxx**
