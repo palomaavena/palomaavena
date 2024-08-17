@@ -15,11 +15,22 @@ by @palomaavena
 * [Nome](link)
   
   
-# Ferramentas utilizadas
+# Ferramentas
 
-- [x] **xxxxxxxx**
-- [x] **xxxxxxxxx**
-- [ ] xxxxxxxxxx
-- [ ] xxxxxxxxxxx
-- [ ] xxxxxxxxxx
-- [ ] xxxxxxxxxxxx
+- [x] **GIT**
+- [x] **GITHUB**
+- [x] **Markdown**
+- [x] **python**
+- [x] **Vscode**
+- [x] **Jupyter**
+- [x] **Pylance**
+- [x] **Python Debugger**
+- [x] **SQLite**
+- [x] **SQLite Viewer**
+- [x] **R**
+- [x] **RStudio**
+- [x] **Pandas**
+- [x] **Numpy**
+- [x] **Matplotlib**
+- [ ] plotly
+- [ ]
