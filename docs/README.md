@@ -15,15 +15,6 @@ Textos, Links, notas e mais outras coisas importantes para guardar
 * [    ]( )
   
   
-# xxxxxxxx
-
-- [x] **xxxxxxxx**
-- [x] **xxxxxxxxx**
-- [ ] xxxxxxxxxx
-- [ ] xxxxxxxxxxx
-- [ ] xxxxxxxxxx
-- [ ] xxxxxxxxxxxx
-
 
 
 
