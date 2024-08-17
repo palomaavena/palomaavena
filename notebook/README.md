@@ -12,7 +12,7 @@ by @palomaavena
 
 # Sumário
 
-* [Comandos GIT]()
+* [Comandos GIT](https://github.com/palomaavena/palomaavena/blob/main/notebook/comandos_git.md)
 * [Comandos Python](https://github.com/palomaavena/palomaavena/blob/main/notebook/comandos_python.md)
 * [Comandos SQL]()
 * [GIT HUB]()
