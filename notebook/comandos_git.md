@@ -1,19 +1,23 @@
-### Comandos Terminal Git
+## Comandos Terminal Git
 
 
-## Fork repositório
+### Fork repositório
 
  copia o link do code
 
-## Acessando terminal 
+
+### Acessando terminal 
 
 Git bash here (botão direito)
 
-## Abrindo Vscode
+
+### Abrindo Vscode
 
 => code . 
 
-## Iniciando o GIT
+
+### Iniciando o GIT
+
 ```python
 
  git init
@@ -21,9 +25,7 @@ Git bash here (botão direito)
 ```
 
 
-
-
-##  Clonando o fork
+###  Clonando o fork
 
 ```python
 
@@ -31,7 +33,8 @@ Git bash here (botão direito)
 
 ```
 
-## Para adicionar as mudanças
+
+### Para adicionar as mudanças
 
 ```python
 
@@ -39,7 +42,8 @@ Git bash here (botão direito)
 
 ```
 
-## Commit
+
+### Commit
 
 ```python
 
@@ -47,7 +51,8 @@ Git bash here (botão direito)
 
 ```
 
-## Push 
+
+### Push 
 
 ```python
 
@@ -55,7 +60,8 @@ Git bash here (botão direito)
 
 ```
 
-## Pull 
+
+### Pull 
 
 ```python
 
@@ -63,7 +69,8 @@ Git bash here (botão direito)
 
 ```
 
-## Status
+
+### Status
 
 ```python
 
@@ -71,7 +78,8 @@ Git bash here (botão direito)
 
 ```
 
-## branch
+
+### branch
 
 ```python
 
@@ -80,7 +88,7 @@ Git bash here (botão direito)
 ```
 
 
-## Log
+### Log
 
 ```python
 
@@ -88,7 +96,8 @@ Git bash here (botão direito)
 
 ```
 
-## Ir para pasta
+
+### Ir para pasta
 
 ```python
 
@@ -96,7 +105,8 @@ Git bash here (botão direito)
 
 ```
 
-## Voltar para pasta
+
+### Voltar para pasta
 
 ```python
 
@@ -105,7 +115,7 @@ Git bash here (botão direito)
 ```
 
 
-## Criando arquivo
+### Criando arquivo
 
 ```python
 
@@ -113,7 +123,8 @@ Git bash here (botão direito)
 
 ```
 
-## Criando pasta
+
+### Criando pasta
 
 ```python
 
@@ -122,7 +133,7 @@ Git bash here (botão direito)
 ```
 
 
-## Para rodar arquivo Python
+### Para rodar arquivo Python
 
 ```python
 
