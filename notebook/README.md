@@ -16,7 +16,7 @@ by @palomaavena
 * [Comandos Python](https://github.com/palomaavena/palomaavena/blob/main/notebook/comandos_python.md)
 * [Comandos SQL]()
 * [GIT HUB]()
-* [Linguagem R]()
+* [Linguagem R](https://github.com/palomaavena/palomaavena/blob/main/notebook/linguagem_R.md)
   
   
 # Ferramentas
