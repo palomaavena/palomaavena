@@ -11,7 +11,7 @@ https://www.r-project.org/
 
 https://cran.r-project.org/mirrors.html
 
-### 2. Rstudio 
+### 2. Rstudio IDE
 
 Ambiente com melhor visualização para trabalhar com R. 
 
@@ -90,7 +90,9 @@ Comunidade
 
 
 
-Fonte: Aulas de Isaías Lira - UDEMY 
+## Fontes 
+
+- Aulas de Isaías Lira - UDEMY 
 
 
 
