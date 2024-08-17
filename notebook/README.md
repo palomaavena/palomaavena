@@ -29,6 +29,8 @@ by @palomaavena
 - [x] **Jupyter**
 - [x] **Pylance**
 - [x] **Python Debugger**
+- [x] **MySQL**
+- [x] **SQLServer**
 - [x] **SQLite**
 - [x] **SQLite Viewer**
 - [x] **R**
@@ -37,7 +39,13 @@ by @palomaavena
 - [x] **Numpy**
 - [x] **Matplotlib**
 - [ ] plotly
-- [ ]
+- [ ] Powerbi
+- [ ] Looker studio
+- [ ] Tableau
+- [ ] postgresql
+- [ ] postgis
+- [ ] geopandas
+- [ ] kernel
 
 
 # Documentações
