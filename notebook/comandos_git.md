@@ -16,7 +16,7 @@ Git bash here (botão direito)
 => code . 
 
 
-### Iniciando o GIT
+### Inicia um novo repositório Git
 
 ```python
 
@@ -140,3 +140,28 @@ Git bash here (botão direito)
  python nomedoarquivo.py
 
 ```
+
+### Faz merge de uma branch com outra
+
+```python
+
+ git merge
+
+```
+
+
+### Cria uma nova branch e muda pra ela
+
+```python
+
+ git checkout -b 
+
+```
+
+### Muda para uma branch específica
+
+```python
+git checkout 
+```
+
+
