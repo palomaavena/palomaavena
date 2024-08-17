@@ -55,6 +55,11 @@
 [Python](https://docs.python.org/3/)
 
 
+## RStudio
+
+[RStudio](https://docs.posit.co/ide/user/)
+
+
 ## SQLite
 
 [SQLite](https://www.sqlite.org/docs.html)
