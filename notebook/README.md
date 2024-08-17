@@ -1,8 +1,10 @@
-# NOTEBOOK
+# NOTEBOOK PALOMA 
 
 # Sobre 
 
 Meu caderno de estudos
+
+by @palomaavena
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
