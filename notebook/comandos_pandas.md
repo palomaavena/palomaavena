@@ -1,9 +1,5 @@
 # Guia Completo de Comandos do Pandas
 
-## Fontes
-
-Prof. Daviny Leticia
-
 
 ## Introdução ao Pandas
 
@@ -324,3 +320,9 @@ Pandas permite exportar dados em vários formatos:
 **Terceiro Conjunto:** Um caso onde uma relação linear pode ser sugerida pelos números, mas existe um ponto extremo (outlier) que afeta a análise.
 
 **Quarto Conjunto:** Um conjunto de dados em que a linha de regressão é completamente determinada por um único ponto fora da curva, enquanto os outros formam uma linha vertical.
+
+
+## Fontes
+
+Prof. Daviny Leticia
+
