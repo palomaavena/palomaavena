@@ -1,5 +1,8 @@
 # Glossário SQL - Tradução e Funcionalidade
 
+## Fonte 
+Prof. Camila Ribeiro
+
 <br>
 
 | Palavra SQL | Tradução | Função | Exemplo | Tradução do Exemplo |
@@ -54,4 +57,4 @@
 | INTERSECT | Interseção | Retorna apenas as linhas que aparecem em ambos os conjuntos de resultados. | SELECT titulo FROM livros WHERE ano_publicacao > 2000 INTERSECT SELECT titulo FROM livros WHERE genero = 'Ficção'; | Selecione os títulos de livros publicados após 2000 que também sejam do gênero "Ficção". |
 | EXCEPT | Exceto | Retorna apenas as linhas que aparecem no primeiro conjunto de resultados, mas não no segundo. | SELECT titulo FROM livros WHERE genero = 'Ficção' EXCEPT SELECT titulo FROM livros WHERE ano_publicacao > 2000; | Selecione os títulos de livros de ficção que não foram publicados após 2000. |
 
-Fonte: Camila Ribeiro
+
