@@ -1,14 +1,21 @@
 # Documentações
 
-
 ## Colab
 
 [Colab](https://colab.research.google.com/)
 
 
+## GIT
+
+[GIT](https://git-scm.com/docs)
+[GitHub](https://docs.github.com/pt)
+[GitLab](https://docs.gitlab.com/)
+
+
 ## Jupyter
 
 [Jupyter](https://jupyter.org/)
+
 
 ## Matlab
 
@@ -53,6 +60,11 @@
 ## Python
 
 [Python](https://docs.python.org/3/)
+
+
+## Markdown
+
+[Markdown net](https://markdown.net.br/sintaxe-basica/)
 
 
 ## RStudio
