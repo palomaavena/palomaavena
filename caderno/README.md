@@ -12,11 +12,17 @@ by @palomaavena
 
 # Sumário
 
+
+
 * [Comandos GIT](https://github.com/palomaavena/palomaavena/blob/main/notebook/comandos_git.md)
 * [Comandos Python](https://github.com/palomaavena/palomaavena/blob/main/notebook/comandos_python.md)
 * [Comandos SQL](https://github.com/palomaavena/palomaavena/blob/main/notebook/comandos_SQL.md)
 * [GIT HUB]()
 * [Linguagem R](https://github.com/palomaavena/palomaavena/blob/main/notebook/linguagem_R.md)
+
+
+* [Inglês](https://github.com/palomaavena/palomaavena/tree/main/caderno/ingles)
+* [Espanhol](https://github.com/palomaavena/palomaavena/tree/main/caderno/espanhol)
   
 
 # Repositórios de Cursos
