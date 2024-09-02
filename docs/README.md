@@ -15,7 +15,7 @@ Textos, Links, notas e mais outras coisas importantes para guardar
   
 ## Caderno de Estudos
 
- [Notebook](https://github.com/palomaavena/palomaavena/blob/main/notebook/README.md)
+ [Caderno](https://github.com/palomaavena/palomaavena/blob/main/caderno/README.md)
 
 
 
