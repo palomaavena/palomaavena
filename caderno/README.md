@@ -1,8 +1,8 @@
-# CADERNO PALOMA 
+# CADERNO DE ESTUDOS 
 
 # Sobre 
 
-Meu caderno de estudos
+Meu caderno de estudos com lembretes, passo a passo, comandos...
 
 by @palomaavena
 
