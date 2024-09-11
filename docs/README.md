@@ -10,7 +10,7 @@ Textos, Links, notas e mais outras coisas importantes para guardar
 
 ## Sumário
 
-* [Documentações]((https://github.com/palomaavena/palomaavena/blob/main/docs/documentacoes.md))
+* [Documentações](https://github.com/palomaavena/palomaavena/blob/main/docs/documentacoes.md)
 * [Manifesto Ágil](https://github.com/palomaavena/palomaavena/blob/main/docs/manifesto_agil.md)
   
 ## Caderno de Estudos
