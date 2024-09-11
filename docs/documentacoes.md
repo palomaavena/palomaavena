@@ -79,3 +79,13 @@
 
 [SQLite](https://www.sqlite.org/docs.html)
 
+## Testes
+
+[IEEE 829-2008](https://ieeexplore.ieee.org/document/4578383)
+
+[ISO/IEC 29119](https://ieeexplore.ieee.org/document/9591577)
+
+[ISTQB]
+
+
+
