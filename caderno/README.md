@@ -49,14 +49,14 @@ by @palomaavena
 - [x] **Pandas**
 - [x] **Numpy**
 - [x] **Matplotlib**
-- [ ] plotly
-- [ ] Powerbi
-- [ ] Looker studio
-- [ ] Tableau
-- [ ] postgresql
-- [ ] postgis
-- [ ] geopandas
-- [ ] kernel
+- [x] **plotly**
+- [x] **Powerbi**
+- [x] **Looker studio**
+- [x] **Tableau**
+- [x] **postgresql**
+- [x] **postgis**
+- [x] **geopandas**
+- [x] **kernel**
 
 
 # Documentações
