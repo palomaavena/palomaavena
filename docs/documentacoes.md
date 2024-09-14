@@ -1,9 +1,14 @@
 # Documentações
 
+
+## ArcGIS
+
+[ArGIS](https://doc.arcgis.com/en/)
+
+
 ## Colab
 
 [Colab](https://colab.research.google.com/)
-
 
 ## GIT
 
@@ -65,6 +70,9 @@
 [Python](https://docs.python.org/3/)
 
 
+## QGIs
+
+[QGis](https://docs.qgis.org/3.34/en/docs/user_manual/index.html)
 
 ## Robot Framework
 
@@ -78,6 +86,12 @@
 ## SQLite
 
 [SQLite](https://www.sqlite.org/docs.html)
+
+
+## Tableau
+
+[Tableau](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
+
 
 ## Testes
 
