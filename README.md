@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @palomaavena
 - 👀 I’m interested in oceanography, remote sensing, GIS, geodata analysis, environment, climate change, Python, SQL, R and science.
 - 🌱 I’m currently learning Data Analysis with Python at (https://github.com/reprograma/).
-- 💞️ I am looking to collaborate on GIS projects.
+- 💞️ I am looking to collaborate on TI projects.
 - 📫 How to reach me (https://www.linkedin.com/in/palomaavena/)
 - ⚡ Fun fact: I am passionate about diving at the Ocean (of data too)!
 
