@@ -10,7 +10,7 @@ Textos, Links, notas e mais outras coisas importantes para guardar
 
 ## Sumário
 
-* [Script Calendario Power BI- ](https://github.com/palomaavena/palomaavena/blob/main/scripts/calendario_BI.txt))
+* [Script Calendario Power BI- ](https://github.com/palomaavena/palomaavena/blob/main/scripts/calendario_BI.txt)
 
 Fonte: 
 
