@@ -1,6 +1,6 @@
 # Ferramentas 
 
-em construção
+Download de ferramentas ou links dos sites ....em construção
 
 ## Bizagi
 
@@ -58,7 +58,7 @@ em construção
 
 ## pgAdmin4
 
-[pgAdmin4](https://www.pgadmin.org/docs/pgadmin4/8.10/index.html)
+[pgAdmin4]([https://www.pgadmin.org/docs/pgadmin4/8.10/index.html](https://www.pgadmin.org/download/))
 
 
 ## PostGIS
@@ -68,37 +68,45 @@ em construção
 
 ## PostgreSQL
 
-[PostgreSQL](https://www.postgresql.org/docs/)
+[PostgreSQL]([https://www.postgresql.org/docs/](https://www.postgresql.org/download/))
 
 
 ## Python
 
-[Python](https://docs.python.org/3/)
+[Python]([https://docs.python.org/3/](https://www.python.org/downloads/))
 
 
 ## QGIs
 
-[QGis](https://docs.qgis.org/3.34/en/docs/user_manual/index.html)
+[QGis]([https://docs.qgis.org/3.34/en/docs/user_manual/index.html](https://qgis.org/download/))
 
+
+## R
+
+[R](https://posit.co/download/rstudio-desktop/)
 
 
 ## RStudio
 
-[RStudio](https://docs.posit.co/ide/user/)
+[RStudio]([https://docs.posit.co/ide/user/](https://posit.co/download/rstudio-desktop/)
 
 
 ## SQLite
 
-[SQLite](https://www.sqlite.org/docs.html)
+[SQLite]([https://www.sqlite.org/docs.html](https://www.sqlite.org/download.html))
+
+
+[SQLiteonline](https://sqliteonline.com/)
 
 
 ## Tableau
 
-[Tableau](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
-
+[Tableau]([https://help.tableau.com/](https://public.tableau.com/app/discover))
 
 
 ## VScode
+
+[VScode](https://code.visualstudio.com/download)
 
 
 
