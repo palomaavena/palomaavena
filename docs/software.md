@@ -8,7 +8,7 @@ Download de ferramentas ou links dos sites ....em construção
 
 ## BrModelo
 
-[BrMocelo](https://www.sis4.com/brModelo/download.html)
+[BrModelo](https://www.sis4.com/brModelo/download.html)
 
 
 ## Colab
