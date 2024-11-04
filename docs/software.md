@@ -6,6 +6,11 @@ em construção
 
 
 
+## BrModelo
+
+[BrMocelo](https://www.sis4.com/brModelo/download.html)
+
+
 ## Colab
 
 [Colab](https://colab.research.google.com/)
@@ -14,6 +19,9 @@ em construção
 
 [GIT](https://git-scm.com/docs)
 
+## Java
+
+[Java](https://www.java.com/en/download/)
 
 ## Jupyter
 
