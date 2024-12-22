@@ -1,6 +1,6 @@
 # Ferramentas 
 
-Download de ferramentas, documentação ou links dos sites ....em construção
+Download de ferramentas ou sites
 
 ## Bizagi
 
