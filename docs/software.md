@@ -88,7 +88,7 @@ Download de ferramentas ou links dos sites ....em construção
 
 ## RStudio
 
-[RStudio]([https://docs.posit.co/ide/user/](https://posit.co/download/rstudio-desktop/)
+[RStudio](https://docs.posit.co/ide/user/](https://posit.co/download/rstudio-desktop/)
 
 
 ## SQLite
