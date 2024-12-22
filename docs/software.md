@@ -1,6 +1,6 @@
 # Ferramentas 
 
-Download de ferramentas ou links dos sites ....em construção
+Download de ferramentas, documentação ou links dos sites ....em construção
 
 ## Bizagi
 
@@ -58,7 +58,7 @@ Download de ferramentas ou links dos sites ....em construção
 
 ## pgAdmin4
 
-[pgAdmin4](https://www.pgadmin.org/docs/pgadmin4/8.10/index.html](https://www.pgadmin.org/download/))
+[pgAdmin4](https://www.pgadmin.org/docs/pgadmin4/8.10/index.html](https://www.pgadmin.org/download/)
 
 
 ## PostGIS
@@ -68,17 +68,17 @@ Download de ferramentas ou links dos sites ....em construção
 
 ## PostgreSQL
 
-[PostgreSQL](https://www.postgresql.org/download/)](https://www.postgresql.org/download/)
+[PostgreSQL](https://www.postgresql.org/download/)
 
 
 ## Python
 
-[Python](https://docs.python.org/3/](https://www.python.org/downloads/))
+[Python](https://www.python.org/downloads/)
 
 
 ## QGIs
 
-[QGis]([https://docs.qgis.org/3.34/en/docs/user_manual/index.html](https://qgis.org/download/))
+[QGis](https://qgis.org/download/)
 
 
 ## R
@@ -88,12 +88,12 @@ Download de ferramentas ou links dos sites ....em construção
 
 ## RStudio
 
-[RStudio](https://docs.posit.co/ide/user/](https://posit.co/download/rstudio-desktop/)
+[RStudio](https://posit.co/download/rstudio-desktop/)
 
 
 ## SQLite
 
-[SQLite]([https://www.sqlite.org/docs.html](https://www.sqlite.org/download.html))
+[SQLite](https://www.sqlite.org/download.html)
 
 
 [SQLiteonline](https://sqliteonline.com/)
@@ -101,7 +101,7 @@ Download de ferramentas ou links dos sites ....em construção
 
 ## Tableau
 
-[Tableau]([https://help.tableau.com/](https://public.tableau.com/app/discover))
+[Tableau](https://public.tableau.com/app/discover)
 
 
 ## VScode
