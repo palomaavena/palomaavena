@@ -4,7 +4,7 @@ Download de ferramentas ou sites
 
 ## Bizagi
 
-
+[Bizagi](https://www.bizagi.com/pt/plataforma/try-modeler)
 
 ## BrModelo
 
