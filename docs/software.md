@@ -58,7 +58,7 @@ Download de ferramentas ou sites
 
 ## pgAdmin4
 
-[pgAdmin4](https://www.pgadmin.org/docs/pgadmin4/8.10/index.html](https://www.pgadmin.org/download/)
+[pgAdmin4](https://www.pgadmin.org/download/)
 
 
 ## PostGIS
