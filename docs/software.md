@@ -68,7 +68,7 @@ Download de ferramentas ou links dos sites ....em construção
 
 ## PostgreSQL
 
-[PostgreSQL](https://www.postgresql.org/docs/](https://www.postgresql.org/download/))
+[PostgreSQL](https://www.postgresql.org/download/)](https://www.postgresql.org/download/)
 
 
 ## Python
