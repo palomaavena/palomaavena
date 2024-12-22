@@ -58,7 +58,7 @@ Download de ferramentas ou links dos sites ....em construção
 
 ## pgAdmin4
 
-[pgAdmin4]([https://www.pgadmin.org/docs/pgadmin4/8.10/index.html](https://www.pgadmin.org/download/))
+[pgAdmin4](https://www.pgadmin.org/docs/pgadmin4/8.10/index.html](https://www.pgadmin.org/download/))
 
 
 ## PostGIS
@@ -68,12 +68,12 @@ Download de ferramentas ou links dos sites ....em construção
 
 ## PostgreSQL
 
-[PostgreSQL]([https://www.postgresql.org/docs/](https://www.postgresql.org/download/))
+[PostgreSQL](https://www.postgresql.org/docs/](https://www.postgresql.org/download/))
 
 
 ## Python
 
-[Python]([https://docs.python.org/3/](https://www.python.org/downloads/))
+[Python](https://docs.python.org/3/](https://www.python.org/downloads/))
 
 
 ## QGIs
