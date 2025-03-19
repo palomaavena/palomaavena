@@ -5,6 +5,11 @@
 - 📫 How to reach me (https://www.linkedin.com/in/palomaavena/)
 - ⚡ Fun fact: I am passionate about diving at the Ocean (of data too)!
 
+Collaboration
+I’m always open to collaboration. Feel free for reach out via social media for partnerships.
+
+Python  Jupyter  Postgresql  R  Git  Qgis
+
 
 > ### "WHAT IS SUCCESS?
 
@@ -17,6 +22,7 @@
 > This is what success means!" R.W.E
 
 - 😄 Using technology for this kind of success!
+
 
 
 <!---
