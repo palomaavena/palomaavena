@@ -1,14 +1,10 @@
 - 👋 Hi, I’m @palomaavena
 - 👀 I’m interested in oceanography, remote sensing, GIS, geodata analysis, environment, climate change, Python, SQL, R and science.
-- 🌱 I’m currently learning Data Analysis with Python at (https://github.com/reprograma/).
+- 🌱 I’m currently learning Database.
 - 💞️ I am looking to collaborate on TI projects.
 - 📫 How to reach me (https://www.linkedin.com/in/palomaavena/)
 - ⚡ Fun fact: I am passionate about diving at the Ocean (of data too)!
-
-Collaboration
-I’m always open to collaboration. Feel free for reach out via social media for partnerships.
-
-Python  Jupyter  Postgresql  R  Git  Qgis
+- 😄 Collaboration: I’m always open to collaboration. Feel free for reach out via social media for partnerships.
 
 
 > ### "WHAT IS SUCCESS?
@@ -22,7 +18,6 @@ Python  Jupyter  Postgresql  R  Git  Qgis
 > This is what success means!" R.W.E
 
 - 😄 Using technology for this kind of success!
-
 
 
 <!---
